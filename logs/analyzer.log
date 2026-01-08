@@ -1,0 +1,38 @@
+2026-01-08 10:31:22,813 - INFO - ==================================================
+2026-01-08 10:31:22,813 - INFO - Starting Data Analyzer
+2026-01-08 10:31:22,813 - INFO - ==================================================
+2026-01-08 10:31:22,813 - INFO - Loading data from: C:\Users\akhil\OneDrive\Desktop\Python Projects\P2\web_scraper_analyzer\data\scraped_data.csv
+2026-01-08 10:31:22,831 - INFO - Loaded 30 rows
+2026-01-08 10:31:22,831 - INFO - Starting data cleaning
+2026-01-08 10:31:22,837 - INFO - Removed 0 duplicate rows
+2026-01-08 10:31:22,840 - INFO - Data cleaning complete. 30 rows remaining
+2026-01-08 10:31:22,841 - INFO - Computing basic statistics
+2026-01-08 10:31:22,844 - INFO - Total articles: 30, Average score: 210.77
+2026-01-08 10:31:22,844 - INFO - Starting keyword extraction
+2026-01-08 10:31:22,845 - INFO - Extracted 147 unique keywords
+2026-01-08 10:31:22,845 - INFO - Displayed top 10 keywords
+2026-01-08 10:31:22,845 - INFO - Creating score distribution plot
+2026-01-08 10:31:23,966 - INFO - Score distribution plot saved to: C:\Users\akhil\OneDrive\Desktop\Python Projects\P2\web_scraper_analyzer\data\score_distribution.png
+2026-01-08 10:31:23,966 - INFO - Creating keyword frequency plot
+2026-01-08 10:31:24,225 - INFO - Keyword frequency plot saved to: C:\Users\akhil\OneDrive\Desktop\Python Projects\P2\web_scraper_analyzer\data\keyword_frequency.png
+2026-01-08 10:31:24,225 - INFO - Analyzer finished successfully
+2026-01-08 10:31:24,228 - INFO - ==================================================
+2026-01-08 10:36:03,647 - INFO - ==================================================
+2026-01-08 10:36:03,647 - INFO - Starting Data Analyzer
+2026-01-08 10:36:03,647 - INFO - ==================================================
+2026-01-08 10:36:03,647 - INFO - Loading data from: C:\Users\akhil\OneDrive\Desktop\Python Projects\P2\web_scraper_analyzer\data\scraped_data.csv
+2026-01-08 10:36:03,649 - INFO - Loaded 30 rows
+2026-01-08 10:36:03,649 - INFO - Starting data cleaning
+2026-01-08 10:36:03,649 - INFO - Removed 0 duplicate rows
+2026-01-08 10:36:03,649 - INFO - Data cleaning complete. 30 rows remaining
+2026-01-08 10:36:03,654 - INFO - Computing basic statistics
+2026-01-08 10:36:03,655 - INFO - Total articles: 30, Average score: 212.73
+2026-01-08 10:36:03,655 - INFO - Starting keyword extraction
+2026-01-08 10:36:03,655 - INFO - Extracted 147 unique keywords
+2026-01-08 10:36:03,658 - INFO - Displayed top 10 keywords
+2026-01-08 10:36:03,658 - INFO - Creating score distribution plot
+2026-01-08 10:36:03,887 - INFO - Score distribution plot saved to: C:\Users\akhil\OneDrive\Desktop\Python Projects\P2\web_scraper_analyzer\data\score_distribution.png
+2026-01-08 10:36:03,887 - INFO - Creating keyword frequency plot
+2026-01-08 10:36:04,060 - INFO - Keyword frequency plot saved to: C:\Users\akhil\OneDrive\Desktop\Python Projects\P2\web_scraper_analyzer\data\keyword_frequency.png
+2026-01-08 10:36:04,060 - INFO - Analyzer finished successfully
+2026-01-08 10:36:04,060 - INFO - ==================================================

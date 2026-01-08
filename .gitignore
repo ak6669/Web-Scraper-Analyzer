@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Keep data and logs folders but they can be regenerated
+# Uncomment below lines if you don't want to include generated files
+# data/
+# logs/

@@ -1,0 +1,28 @@
+2026-01-08 10:30:25,253 - INFO - ==================================================
+2026-01-08 10:30:25,253 - INFO - Starting Hacker News Scraper
+2026-01-08 10:30:25,253 - INFO - ==================================================
+2026-01-08 10:30:25,253 - INFO - Fetching URL: https://news.ycombinator.com/
+2026-01-08 10:30:26,606 - INFO - Page fetched successfully
+2026-01-08 10:30:26,629 - INFO - Found 30 article rows
+2026-01-08 10:30:26,631 - INFO - Successfully parsed 30 articles
+2026-01-08 10:30:26,633 - INFO - Saved 30 articles to C:\Users\akhil\OneDrive\Desktop\Python Projects\P2\web_scraper_analyzer\data\scraped_data.csv
+2026-01-08 10:31:10,388 - INFO - ==================================================
+2026-01-08 10:31:10,388 - INFO - Starting Hacker News Scraper
+2026-01-08 10:31:10,395 - INFO - ==================================================
+2026-01-08 10:31:10,395 - INFO - Fetching URL: https://news.ycombinator.com/
+2026-01-08 10:31:11,732 - INFO - Page fetched successfully
+2026-01-08 10:31:11,752 - INFO - Found 30 article rows
+2026-01-08 10:31:11,753 - INFO - Successfully parsed 30 articles
+2026-01-08 10:31:11,755 - INFO - Saved 30 articles to C:\Users\akhil\OneDrive\Desktop\Python Projects\P2\web_scraper_analyzer\data\scraped_data.csv
+2026-01-08 10:31:11,756 - INFO - Scraper finished
+2026-01-08 10:31:11,756 - INFO - ==================================================
+2026-01-08 10:35:44,930 - INFO - ==================================================
+2026-01-08 10:35:44,930 - INFO - Starting Hacker News Scraper
+2026-01-08 10:35:44,930 - INFO - ==================================================
+2026-01-08 10:35:44,930 - INFO - Fetching URL: https://news.ycombinator.com/
+2026-01-08 10:35:46,352 - INFO - Page fetched successfully
+2026-01-08 10:35:46,367 - INFO - Found 30 article rows
+2026-01-08 10:35:46,367 - INFO - Successfully parsed 30 articles
+2026-01-08 10:35:46,367 - INFO - Saved 30 articles to C:\Users\akhil\OneDrive\Desktop\Python Projects\P2\web_scraper_analyzer\data\scraped_data.csv
+2026-01-08 10:35:46,367 - INFO - Scraper finished
+2026-01-08 10:35:46,367 - INFO - ==================================================
